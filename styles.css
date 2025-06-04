@@ -34,3 +34,23 @@ body {
   font-size: 16px;
   margin-top: 20px;
 }
+/* Estilos para pantallas medianas (por ejemplo, tablets) */
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Estilos para pantallas grandes (por ejemplo, desktops) */
+@media (min-width: 1024px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+/* Puedes agregar más rangos de ancho de pantalla si lo necesitas */
+@media (min-width: 1200px) {
+  body {
+    font-size: 22px;
+  }
+}
