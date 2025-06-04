@@ -2,14 +2,14 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f0f8ff;
+  background-color: #85cec3;
 }
 
 .postal {
   background-image: url('https://images.unsplash.com/photo-1506784983877-45594efa4cbe');
   background-size: cover;
   background-position: center;
-  color: white;
+  color: 	#2881bd;
   padding: 40px;
   border: 4px solid white;
   text-align: center;
